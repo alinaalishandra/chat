@@ -1,0 +1,19 @@
+@import "../../variables";
+@import "../../mixins";
+.back-to {
+  position: absolute;
+  top: 0;
+  left: 0;
+
+  @include display-flex-center;
+  padding: 0 18px;
+  height: 100%;
+  width: 64px;
+  background-color: $chat;
+  .link {
+    width: 28px;
+    height: 28px;
+    background-color: $appColor;
+    border-radius: 100%;
+  }
+}
