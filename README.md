@@ -2,7 +2,6 @@
 
 ## Описание
 CHAT - приложение, с помощью которого можно будет общаться с друзьями/коллегами/хорошими и не очень людьми, обмениваться фото- и видеофайлами, а также просто хорошим настроением :)
-![Описание](https://github.com/yandex-praktikum/mf.messenger.praktikum.yandex.images/blob/master/mf/desc.png)
 
 ## Текущая версия
 
@@ -23,5 +22,4 @@ CHAT - приложение, с помощью которого можно бу�
 
 ## Дизайн
 
-Дизайн в Figma:
-https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?type=design&node-id=1-616&mode=design&t=TVqn5V33AGaT1V8h-0
+Дизайн в ![Figma](https://www.figma.com/file/jF5fFFzgGOxQeB4CmKWTiE/Chat_external_link?type=design&node-id=1-616&mode=design&t=TVqn5V33AGaT1V8h-0)
