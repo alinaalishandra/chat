@@ -1,0 +1,44 @@
+@import "../../variables";
+@import "../../mixins";
+
+.profile {
+  .person__avatar {
+    width: 100%;
+    .person__image {
+      width: 130px;
+      height: 130px;
+    }
+  }
+
+  .profile__form {
+    padding: 0;
+    width: 510px;
+
+    box-shadow: none;
+
+    .form__group,
+    .form__field{
+      width: 100%;
+    }
+
+    .form__field {
+      border: none;
+      &:not(:last-child) {
+        border-bottom: 1px solid $ea;
+      }
+      label {
+        font-size: 13px;
+      }
+
+      .input {
+        color: $text;
+        text-align: right;
+      }
+    }
+
+    .submit-btn {
+      // fixme:
+      display: none;
+    }
+  }
+}
